@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/olalekan/Documents/workspace/testArea/restaurant-billing-system/src/main/scala/com/restaurant/Restaurant.scala:43:11: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses[0m
+[0m[[0m[33mwarn[0m] [0m[0m  Console.MAGENTA[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/olalekan/Documents/workspace/testArea/restaurant-billing-system/src/main/scala/com/restaurant/Restaurant.scala:57:42: not found: value a[0m
+[0m[[0m[31merror[0m] [0m[0m  Console.println(s"result is here  => ${a}")[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

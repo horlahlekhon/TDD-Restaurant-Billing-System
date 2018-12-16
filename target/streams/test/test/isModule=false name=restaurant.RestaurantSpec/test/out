@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRestaurantSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcalculateServiceCharge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate Accurately the amount of charges to add to a the total good given the list of goods that contains food[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcalculateServiceCharge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate Accurately the amount of charges to add to a the total good given the list of goods that doesnt contains food[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcalculateServiceCharge[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate Accurately the amount of charges to add to a the total good given the list and should never default the max service charge to $20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRestaurant.total[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the total bill of of what was consumed without any sundry charges..LOL when there isnt any food in the order[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRestaurant.total[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the total bill of of what was consumed with charges ..LOL but the charges shouldnt be more than 20 when there is food in the order[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRestaurant.resolveInput[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a structured list of goods[0m[0m
